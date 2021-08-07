@@ -44,7 +44,7 @@ it WON'T
 
 ## slup creation instructions
 
-to create a slup package, first of all create a directory named exactly as your package[^1] like this
+to create a slup package, first of all create a directory named exactly as your package[1^] like this
 
 expected directory:</br>
 ```
