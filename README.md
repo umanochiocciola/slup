@@ -51,7 +51,7 @@ expected directory:</br>
 slupname/
         /descriptor
         /(main executable)
-        /assets/            (optional)
+        /(assets)/            (optional)
                / all the libraries, images and stuff you may need
 ```
 
@@ -75,7 +75,7 @@ expected descriptor file content:</br>
     ],
     
     #optional
-    "assets"       : "relative path to your assets folder",
+    "assets"       : "relative path to your assets folder, in the example above (assets)",
 
 }
 ```
