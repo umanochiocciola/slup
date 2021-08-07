@@ -9,21 +9,42 @@ summary:</br>
 
 ## setup instructions
 
+
+run theese commands to get slup up and running
 >  wget https://github.com/umanochiocciola/slup/raw/main/SLUP.zip</br>
   unzip SLUP.zip</br>
   cd SLUP</br>
   sudo sh setup_slup.sh</br>
 
+to clean up,
+
+> cd ..
+  rm -r SLUP
+  rm SLUP.zip
+
+you have now added `slup` and `Rslup` commands
+
 
 ## usage instructions
 
-install a slup:</br>
-<code>  slup install NAME</code><br>
+
+to install a slup:</br>
+run <code> slup install NAME</code><br>
+it will
+- resolve dependencies
+- add NAME command and its assets
+- clean up
  
-remove a slup:</br>
-<code>  slup install NAME</code><br>
+to remove a slup:</br>
+run <code> slup install NAME</code><br>
+it will 
+- remove NAME command and its assets
+it WON'T
+- check if any other slup was depending on it
 
 ## slup creation instructions
+
+to create a slup package, first of all create a directory like this
 
 expected directory:</br>
 ```
@@ -31,8 +52,11 @@ slupname/
         /descriptor
         /(main executable)
         /assets/            (optional)
-               / whatever code, images and stuff you may need
+               / all the libraries, images and stuff you may need
 ```
+
+the descriptor file will tell slup installer what to do,</br>
+fill it like this
 
 expected descriptor file content:</br>
 ```
@@ -55,6 +79,9 @@ expected descriptor file content:</br>
 
 }
 ```
+
+when everything is ready, commit your package
+
 commiting slup:</br>
 
 1. zip your package directory (structured as described on 'expected directory') and change the `.zip` to `.slup`
