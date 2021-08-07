@@ -1,0 +1,9 @@
+# bin/bash
+comm="python3 /usr/slup/slup.py"
+
+for arg in "$@" 
+do
+    comm="$comm $arg";
+done
+
+$comm
