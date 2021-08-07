@@ -1,0 +1,4 @@
+to compile this run
+`gcc sus.c -o out`
+
+to run, `./out`
