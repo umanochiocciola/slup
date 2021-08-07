@@ -83,7 +83,7 @@ expected descriptor file content:</br>
 
 }
 ```
-[1^]: where YourPackageName is identical to your directory name
+[^1]: where YourPackageName is identical to your directory name
 
 when everything is ready, commit your package
 
