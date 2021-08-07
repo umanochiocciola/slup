@@ -1,5 +1,8 @@
 # slup
 
+SLUP.zip code is not working, fixing soon 
+
+
 summary:</br>
 
 [setup instructions](https://github.com/umanochiocciola/slup#setup-instructions)</br>
@@ -99,10 +102,16 @@ commiting slup:</br>
   If you have a general programming knowledge and wanna help, please consider applying for mod.</br>
   Your chores will be:
   - check (possibly on a chroot or virtual machine) user submitted executables
-  - check that the submitted source code compiles to the user submitted executable
+  - check that the submitted source code compiles to the user submitted executable (file size, hex comparison...)
+  - or recompile the source yourself following the user given instructions
   - check descriptor sintax and directory structure
   - if everything is ok and nothing funny is going on, merge the pull request
   
+  We don't wanna make people install nasty stuff, so be really accurate. 
+  If you don't have spare time to invest into this, don't apply
+  You can check already submitted code if you think it wasn't accurately examined.
+  If you merge malicious code, consciously or not, your mod position will be revoked 
+
   to apply, email me [here](lorenzomari22@gmail.com)
   
 
