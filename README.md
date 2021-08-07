@@ -44,7 +44,7 @@ it WON'T
 
 ## slup creation instructions
 
-to create a slup package, first of all create a directory like this
+to create a slup package, first of all create a directory named exactly as your package[^1] like this
 
 expected directory:</br>
 ```
@@ -79,6 +79,7 @@ expected descriptor file content:</br>
 
 }
 ```
+[1^]: where YourPackageName is identical to your directory name
 
 when everything is ready, commit your package
 
