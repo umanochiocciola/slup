@@ -90,9 +90,9 @@ when everything is ready, commit your package
 commiting slup:</br>
 
 1. zip your package directory (structured as described on 'expected directory') and change the `.zip` to `.slup`
-2. prepare a folder (named as you package) with all your source code and clear instructions on how to compie/run it
+2. (if compiled language) prepare a folder (named as you package) with all your source code and clear instructions on how to compie/run it
 3. upload your .slup file directly as /YourPackage.slup in this repository
-4. upload your source code folder as /sources/YourPackage in this repository
+4. (if compiled language) upload your source code folder as /sources/YourPackage in this repository
 5. start pull request! Mods will review and admit it in the main branch as soon as possible
 
 ## Mod appliactions
