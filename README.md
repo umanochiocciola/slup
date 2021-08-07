@@ -53,7 +53,10 @@ slupname/
         /(main executable)
         /(assets)/            (optional)
                / all the libraries, images and stuff you may need
+        /readme               (optional)
 ```
+
+(in the readme write non slup dependencies and whatever you want to be printed at the end of the installation)
 
 the descriptor file will tell slup installer what to do,</br>
 fill it like this
