@@ -2,10 +2,10 @@
 
 summary:</br>
 
-[setup instructions](https://github.com/umanochiocciola/slup#setup-instructions)
-[usage instructions](https://github.com/umanochiocciola/slup#usage-instructions)
-[slup creation instructions](https://github.com/umanochiocciola/slup#slup-creation-instructions)
-[mod applications](https://github.com/umanochiocciola/slup#Mod-applications)
+[setup instructions](https://github.com/umanochiocciola/slup#setup-instructions)</br>
+[usage instructions](https://github.com/umanochiocciola/slup#usage-instructions)</br>
+[slup creation instructions](https://github.com/umanochiocciola/slup#slup-creation-instructions)</br>
+[mod applications](https://github.com/umanochiocciola/slup#mod-applications)</br>
 
 ## setup instructions
 
