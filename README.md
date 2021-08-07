@@ -1,8 +1,5 @@
 # slup
 
-SLUP.zip code is not working, fixing soon 
-
-
 summary:</br>
 
 [setup instructions](https://github.com/umanochiocciola/slup#setup-instructions)</br>
