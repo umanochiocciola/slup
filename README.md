@@ -72,6 +72,7 @@ expected descriptor file content:</br>
             "name"    : "WhateverDependency",
             "version" : "0.0.0 and so on",
         },
+        # only slup dependencies, not things installed by other means. You need to ask polightely the user to resolve them by themselves
     ],
     
     #optional
