@@ -121,4 +121,6 @@ YOU ARE RESPONSIBLE OF WHAT YOU UPLOAD, if you distribute copirighted software, 
 
   to apply, email me [here](lorenzomari22@gmail.com)
   
+  If you aren't a mod but you find a bug/malicious content, please report it in the "issues" tab
+  
 
