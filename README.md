@@ -5,6 +5,7 @@ summary:</br>
 [setup instructions](https://github.com/umanochiocciola/slup#setup-instructions)</br>
 [usage instructions](https://github.com/umanochiocciola/slup#usage-instructions)</br>
 [slup creation instructions](https://github.com/umanochiocciola/slup#slup-creation-instructions)</br>
+[porting](https://github.com/umanochiocciola/slup#porting)</br>
 [mod applications](https://github.com/umanochiocciola/slup#mod-applications)</br>
 
 ## setup instructions
@@ -94,6 +95,15 @@ commiting slup:</br>
 3. upload your .slup file directly as /YourPackage.slup in this repository
 4. (if compiled language) upload your source code folder as /sources/YourPackage in this repository
 5. start pull request! Mods will review and admit it in the main branch as soon as possible
+
+## porting
+
+Obviously, we'd all love to install all the packages we need from the same manager.</br>
+If you want a package to be included that is not yours, make sure it is licensed under GPL (or more permissive licenses) and that you can make and distribute a copy of it.</br> If everything is legally ok, just build a package with the executables and upload the source as you would with packages made by you.
+
+YOU ARE RESPONSIBLE OF WHAT YOU UPLOAD, if you distribute copirighted software, me and the other contributors are not responsible.
+
+
 
 ## Mod appliactions
   If you have a general programming knowledge and wanna help, please consider applying for mod.</br>
