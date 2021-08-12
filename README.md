@@ -37,7 +37,7 @@ it will
 - clean up
  
 to remove a slup:</br>
-run <code> slup install NAME</code><br>
+run <code> slup remove NAME</code><br>
 it will 
 - remove NAME command and its assets
 it WON'T
