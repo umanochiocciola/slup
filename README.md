@@ -1,5 +1,7 @@
 # slup
 
+WARNING: unless you fork it and make it good, it's not a good idea to use this thing :)
+
 summary:</br>
 
 [setup instructions](https://github.com/umanochiocciola/slup#setup-instructions)</br>
